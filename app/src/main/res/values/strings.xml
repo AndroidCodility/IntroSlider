@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Intro Silder</string>
+    <string name="applicant_name">Android Codility</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+
+    <string name="slide_1_title">Android Lollipop!</string>
+    <string name="slide_1_desc">Android 5.0 (LOLLIPOP) offers new features for users and app developers. This document provides an introduction to the most notable new APIs.!</string>
+
+    <string name="slide_2_title">Android Marshmallow</string>
+    <string name="slide_2_desc">Now on Tap anticipates what you need in the moment. With a simple tap, you can get cards with useful information and apps that feed your need to know.!</string>
+
+    <string name="slide_3_title">Android Nougat</string>
+    <string name="slide_3_desc">Enjoy simple, high quality virtual reality With VR mode, Android Nougat is ready to transport you to new worlds. Available on Daydream-ready phones.!</string>
+
+    <string name="slide_4_title">Android Oreo</string>
+    <string name="slide_4_desc">Test your apps for compatibility with Android Oreo. Just download a device system image, install your current app, and test in areas where behavior changes may affect the app. Update your code and publish, using the app\'s current platform targeting.!</string>
+    <string name="intro_slider">Android Introduction Slider is basically used to introduce the major features of the application to the user. It also attracts and helps the user to know about the app. It is also called android welcome screen and is used to guide the user on how to use the app just after installation. It is used in almost all popular apps and games these days.
+    \n\nTo make the intro slider we will make 3-4 slide screens having swipe gesture facilities with a skip and next navigation buttons. The user can navigate to other welcome screen using swipe gesture or by using the next button. After that, the user can navigate to the home screen or login screen. Intro slider is basically shown once after the installation and after that user directly interact with the home screen. </string>
+
+</resources>
